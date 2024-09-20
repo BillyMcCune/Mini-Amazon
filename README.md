@@ -1,3 +1,5 @@
+George
+
 # Skeleton Code for CompSci 316/516 Standard Course Project.
 
 Originally created by [Rickard
